@@ -3,7 +3,7 @@
 ### Code review kódu
 Git repozitář s kódem - https://github.com/Seeyappaja/BrokenSnake/blob/main/main.cs
 
-Kód rozhodně splnil účel a původní rozbitý kód hada značně zjednodušil, nicméně máme k němu pár poznáek.
+Kód rozhodně splnil účel a původní rozbitý kód hada značně zjednodušil, nicméně máme k němu pár poznámek.
 Jedna z do očí bijících věcí, která se mohla zlepšit je že se směrové instrukce nepřevedly na enum. 
 To by přispělo k bezpečnosti kódu a nehrozilo by, že by se někdo přepsal ve směrové instrukci.
 Další věc je nadměrné používání statických metod v objektově orientovaném programovacím jazyku.
